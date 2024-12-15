@@ -9,7 +9,7 @@ Created on Tue Oct 12 07:48:58 2021
 #https://www.youtube.com/watch?v=_dzr1pm3Ymw
 !pip install seaborn
 !pip install plotly
-!pip install slearn
+!pip install sklearn
 !pip install matplotlib
 import streamlit as st
 import pandas as pd
