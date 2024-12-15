@@ -7,10 +7,10 @@ Created on Tue Oct 12 07:48:58 2021
 
 #https://raw.githubusercontent.com/Shreyas3108/house-price-prediction/master/kc_house_data.csv
 #https://www.youtube.com/watch?v=_dzr1pm3Ymw
-!pip install seaborn
-!pip install plotly
-!pip install sklearn
-!pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install sklearn
+pip install matplotlib
 import streamlit as st
 import pandas as pd
 import numpy as np
